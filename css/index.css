@@ -207,6 +207,7 @@ h5 {
 		align-content: center;
 		justify-content: center;
 		align-items: center;
+		margin-bottom: 2em;
 	}
 }
 
@@ -282,12 +283,12 @@ h5 {
 		display: flex;
 		width: auto;
 		margin: .50em auto;
+		margin-bottom: 1em;
 	}
 }
 
 
 .tagline {
-	height: auto;
 	margin: 0 auto;
 	font-size: auto;
 	width: 90%;
@@ -504,13 +505,13 @@ body {
 .middle-img {
 	align-content: center;
 	width: 100%;
-	margin: .3em;
-	margin-left: 0;
+	margin: 1em 0em;
 }
 
 @media (max-width: 800px) {
 	.middle-img {
 		width: 100%;
+		margin: 
 	}
 }
 
@@ -563,6 +564,7 @@ body {
 		justify-content: center;
 		justify-items: center;
 		margin: .4em;
+		margin-bottom: 1.5em;
 		font-size: 90%;
 	}
 }
